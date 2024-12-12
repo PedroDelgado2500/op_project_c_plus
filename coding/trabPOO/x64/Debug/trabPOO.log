@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\pdelg\Desktop\trabPOO\trabPOO\main.cpp(14,81): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\pdelg\Desktop\trabPOO\trabPOO\main.cpp(15,67): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\pdelg\Desktop\trabPOO\trabPOO\main.cpp(28,78): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\pdelg\Desktop\trabPOO\trabPOO\main.cpp(35,86): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  trabPOO.vcxproj -> C:\Users\pdelg\Desktop\trabPOO\x64\Debug\trabPOO.exe
